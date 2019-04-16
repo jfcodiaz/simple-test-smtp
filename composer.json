@@ -1,0 +1,13 @@
+{
+    "name": "ubuntu/smtp-test",
+    "authors": [
+        {
+            "name": "Jfco Díaz",
+            "email": "jfcodiaz@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2",
+        "vlucas/phpdotenv": "^3.3"
+    }
+}
